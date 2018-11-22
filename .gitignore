@@ -3,3 +3,9 @@ target/
 *.iml
 *.ipr
 *.iws
+
+.vscode
+.settings/
+.project
+.factorypath
+.classpath
