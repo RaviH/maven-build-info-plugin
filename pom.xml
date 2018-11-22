@@ -8,7 +8,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.rodiontsev.maven.plugins</groupId>
+    <groupId>com.arete.maven.plugins</groupId>
     <artifactId>build-info-maven-plugin</artifactId>
     <version>1.3-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
@@ -30,6 +30,12 @@
             <id>rodiontsev</id>
             <name>Dmitry Rodiontsev</name>
             <email>dmitry@rodiontsev.com</email>
+            <timezone>GMT+10</timezone>
+        </developer>
+        <developer>
+            <id>rhasija</id>
+            <name>Ravi Hasija</name>
+            <email>ravi.hasija@gmail.com</email>
             <timezone>GMT+10</timezone>
         </developer>
     </developers>
